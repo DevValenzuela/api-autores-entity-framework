@@ -1426,7 +1426,7 @@
         }
       }
     },
-    "net6.0/win-x64": {
+    "net6.0/win-x86": {
       "AutoMapper/11.0.0": {
         "type": "package",
         "dependencies": {
@@ -1808,7 +1808,7 @@
       "Microsoft.Data.SqlClient.SNI.runtime/2.1.1": {
         "type": "package",
         "native": {
-          "runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll": {}
+          "runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll": {}
         }
       },
       "Microsoft.EntityFrameworkCore/6.0.4": {
@@ -6862,15 +6862,15 @@
         "warn": true,
         "downloadDependencies": [
           {
-            "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+            "name": "Microsoft.AspNetCore.App.Runtime.win-x86",
             "version": "[6.0.2, 6.0.2]"
           },
           {
-            "name": "Microsoft.NETCore.App.Runtime.win-x64",
+            "name": "Microsoft.NETCore.App.Runtime.win-x86",
             "version": "[6.0.2, 6.0.2]"
           },
           {
-            "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+            "name": "Microsoft.WindowsDesktop.App.Runtime.win-x86",
             "version": "[6.0.2, 6.0.2]"
           }
         ],
@@ -6886,7 +6886,7 @@
       }
     },
     "runtimes": {
-      "win-x64": {
+      "win-x86": {
         "#import": []
       }
     }

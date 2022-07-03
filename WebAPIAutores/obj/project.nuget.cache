@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "fKlkofYsMm+LrOV4RLPkeddNTe3FUi7p8stSVcW20n3dCOnWa//RXetdSKsK6dO1UFkBV+HqnodUAkAfevk9Qg==",
+  "dgSpecHash": "E2RsSbOcJQFfCwWL+fBUOtZIXgts+2AVaHHDbn/xH2WfUpJqIo8a6zX4oeotikXG2WQYw2r9OGX7hdpkOufCag==",
   "success": true,
   "projectFilePath": "C:\\Users\\Valenzuela\\Desktop\\api-autores-entity-framework\\WebAPIAutores\\WebAPIAutores.csproj",
   "expectedPackageFiles": [
@@ -132,9 +132,9 @@
     "C:\\Users\\Valenzuela\\.nuget\\packages\\system.threading.overlapped\\4.3.0\\system.threading.overlapped.4.3.0.nupkg.sha512",
     "C:\\Users\\Valenzuela\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
     "C:\\Users\\Valenzuela\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
-    "C:\\Users\\Valenzuela\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.2\\microsoft.netcore.app.runtime.win-x64.6.0.2.nupkg.sha512",
-    "C:\\Users\\Valenzuela\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.2\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.2.nupkg.sha512",
-    "C:\\Users\\Valenzuela\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.2\\microsoft.aspnetcore.app.runtime.win-x64.6.0.2.nupkg.sha512"
+    "C:\\Users\\Valenzuela\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.2\\microsoft.netcore.app.runtime.win-x86.6.0.2.nupkg.sha512",
+    "C:\\Users\\Valenzuela\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.2\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.2.nupkg.sha512",
+    "C:\\Users\\Valenzuela\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.2\\microsoft.aspnetcore.app.runtime.win-x86.6.0.2.nupkg.sha512"
   ],
   "logs": []
 }
