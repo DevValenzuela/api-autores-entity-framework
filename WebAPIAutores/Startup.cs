@@ -7,7 +7,6 @@ using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using System.IdentityModel.Tokens.Jwt;
 using System.Reflection;
-using System.Text;
 using System.Text.Json.Serialization;
 using WebAPIAutores.Filtros;
 using WebAPIAutores.Middlewares;
@@ -50,9 +49,9 @@ namespace WebAPIAutores
                         ValidateIssuer = false,
                         ValidateIssuerSigningKey = false,
                         ValidateLifetime = true,
-                        IssuerSigningKey = new SymmetricSecurityKey(
+                        /*IssuerSigningKey = new SymmetricSecurityKey(
                             Encoding.UTF8.GetBytes(Configuration["key_jwt"])
-                        ),
+                        ),*/
                         ClockSkew = TimeSpan.Zero
                     });
 
