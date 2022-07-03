@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAbZ543S+sU0C49W40RRMxqAAAAAACAAAAAAAQZgAAAAEAACAAAAADMtat+WFnBKqNxLi/ukOKIg9USiqm9iLHMbIfp/QInwAAAAAOgAAAAAIAACAAAADqxvWR5yeFduKOa/LW8kXQdt/hjBibdA6EjGOnU6ZlL4AAAABWQVBFAZYnThhOBSCVu5q3dFI0kxdu5I6r7+ILnT0xZwVHGusljJSmPod5MSPlMrJveba4OVmsd7fguTotk0AKANw3ANiDoQ2p1RH58oJpUXMJ8Xl9z6kOMJ1AyFfUIuZfCCg80dEQluuqoSv+ujsOPLSUYVS8MfY2MBC3MoWDvEAAAACBEzJ7993k6zTMdmr2Jdg1/Yz8b7mecKgnbPTskcjnC+EJ0YyATdGDOP7irVDatRqJ1cN7vRZXrnbAtYCTsy79</EncryptedPassword>
+    <History>True|2022-07-03T15:20:27.5778754Z;True|2022-07-02T22:43:27.4944593-05:00;True|2022-07-02T22:36:36.7163753-05:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="WebAPIAutores.ApplicationDbContext">
+      <Value>Data Source=tcp:webapiautoresdbserver123.database.windows.net,1433%3bInitial Catalog=WebAPIAutores_db%3bUser Id=author2022%40webapiautoresdbserver123%3bPassword=atenea1989!</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

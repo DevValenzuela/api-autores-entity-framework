@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\Valenzuela\Desktop\api-autores-entity-framework\WebAPIAutores\obj\Release\net6.0\win-x86\PubTmp\Out\" />
+  <dbfullsql path="C:\Users\Valenzuela\Desktop\api-autores-entity-framework\WebAPIAutores\obj\Release\net6.0\win-x86\PubTmp\EFSQLScripts\WebAPIAutores.ApplicationDbContext.sql" />
+</sitemanifest>

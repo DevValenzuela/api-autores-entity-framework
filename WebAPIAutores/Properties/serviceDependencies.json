@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "identityapp1": {
+      "ignored": "true",
+      "suggestion": "true",
+      "type": "identityapp",
+      "connectionId": ""
+    },
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "defaultConnection"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="WebAPIAutores20220702220733" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Valenzuela\\Desktop\\api-autores-entity-framework\\WebAPIAutores\\obj\\Release\\net6\.0\\win-x86\\PubTmp\\Out\\$" />
+  </parameter>
+  <parameter name="WebAPIAutores.ApplicationDbContext" description="" value="Data Source=tcp:webapiautoresdbserver123.database.windows.net,1433;Initial Catalog=WebAPIAutores_db;User Id=author2022@webapiautoresdbserver123;Password=atenea1989!" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^C:\\Users\\Valenzuela\\Desktop\\api-autores-entity-framework\\WebAPIAutores\\obj\\Release\\net6\.0\\win-x86\\PubTmp\\EFSQLScripts\\WebAPIAutores\.ApplicationDbContext\.sql$" />
+  </parameter>
+</parameters>
