@@ -25,7 +25,7 @@ steps:
 - task: CmdLine@2
   displayName: 'Installing EF Core CLI'
   inputs:
-    script: 'dotnet tool install --global --version 1.1.0-pre'
+    script: 'dotnet tool install --global dotnet-ef'
 - task: CmdLine@2
   displayName: 'Generating DB script'
   inputs:
